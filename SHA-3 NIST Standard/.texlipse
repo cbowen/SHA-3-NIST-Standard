@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Mar 21 15:06:06 PDT 2013
+markTmpDer=true
+builderNum=2
+outputDir=pdf
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=KeccakPoster.tex
+outputFile=KeccakPoster.pdf
+langSpell=en
+markDer=true
+srcDir=tex
